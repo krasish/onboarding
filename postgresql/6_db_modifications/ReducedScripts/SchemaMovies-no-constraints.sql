@@ -54,8 +54,8 @@ INSERT INTO STUDIO
 
 INSERT INTO STUDIO
   VALUES ('MGM','MGM Boulevard', 5);
-  
-------- Insert MovieExec ------------  
+
+------- Insert MovieExec ------------
 INSERT INTO MOVIEEXEC (NAME, ADDRESS, CERTNUM, NETWORTH)
   VALUES ('George Lucas', 'Oak Rd.', 555, 200000000);
 
@@ -122,7 +122,7 @@ INSERT INTO MOVIESTAR
 
 INSERT INTO MOVIESTAR
   VALUES ('Jack Nicholson', 'X path', 'M', '1949-05-05');
-  
+
 INSERT INTO MOVIESTAR
   VALUES ('Sandra Bullock', 'X path', 'F', '1948-12-05');
 
